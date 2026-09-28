@@ -5,14 +5,9 @@ A Python mini project that scans DNA sequences for **disease-associated repeat m
 > Mini Project — MIT World Peace University (MIT-WPU), Pune
 > Guide: **Prof. Sheetal Girase**
 
-## 👥 Team
+## 👤 Author
 
-| PRN | Name |
-|---|---|
-| 1262251822 | Sriyash Ghodke |
-| 1262251588 | Priyanka Gupta |
-| 1262252914 | Rayyan Ansari |
-| 1262251995 | Shravya Bhatt |
+**Sriyash Ghodke** — SY CSE, MIT World Peace University, Pune
 
 ## 📌 Problem Statement
 
